@@ -1,7 +1,7 @@
-# Choquet integrals based on conditional aggregation operators in decision making and image processing, software implementation
+# An experimental study of the Choquet integral based on conditional aggregation operators
 
-This repository contains the software support for experimental study a novel generalized Choquet integral based on conditional aggregation operators in two areas – decision making and image processing.
-Mentioned study is a part of the paper entitled "Choquet integrals based on conditional aggregation operators in decision making and image processing, software implementation".
+This repository contains the software support for an experimental study a novel generalized Choquet integral based on conditional aggregation operators in two areas – decision making and image processing.
+Mentioned study is a part of the paper "Basarik, S.: An experimental study of the Choquet integral based on conditional aggregation operators".
 
 The software support is divided into two folders for individual experiments:
 - the folder "Decision making" included software application AGROP for computing generalized Choquet integral together with its manual. The application is designed for easy use in decision-making processes (see manual),
